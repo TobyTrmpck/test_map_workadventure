@@ -59,7 +59,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"table2"
                 }],
